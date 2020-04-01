@@ -1,4 +1,4 @@
-# clockworks.github.io
+# ClockWorks
 
 This is a timer application where you can set a timer. You can start, pause, stop the timer based on your choice.
 
